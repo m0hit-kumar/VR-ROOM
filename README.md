@@ -1,7 +1,7 @@
 # VR-ROOM
 
 
-## **Get the project([VISML](https://drive.google.com/drive/folders/104p5cvODPeaKB57gbnesMNF4ZvCMA35L?usp=sharing)) files here -**
+## **Get the link below for contribution([VISML](https://drive.google.com/drive/folders/104p5cvODPeaKB57gbnesMNF4ZvCMA35L?usp=sharing)) files here -**
 https://drive.google.com/drive/folders/104p5cvODPeaKB57gbnesMNF4ZvCMA35L?usp=sharing
 
 
