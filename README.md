@@ -30,6 +30,11 @@ VIFE is an ESP32 based device with an MPU6050 accelerometer & gyroscope sensor t
 
 
 ## **DEPENDENCIES**
+1. You have to install unity with latest version.
+2. Then you have to install all the packages provided below under Windows -> Package Manager.
+<img src="https://github.com/m0hit-kumar/VR-ROOM/blob/main/images/78374029-9af5-47bf-9c86-5ed191e94289.jpg" alt="7sakshi7" /> </p>
+3. For viweing notes/ pdfs you have to install pdf render 
+4. You most have renderer available.
 
 
 
