@@ -1,7 +1,7 @@
 # VR-ROOM
 
 
-## **Get the project([VISMAL](https://drive.google.com/drive/folders/104p5cvODPeaKB57gbnesMNF4ZvCMA35L?usp=sharing)) files here -**
+## **Get the project([VISML](https://drive.google.com/drive/folders/104p5cvODPeaKB57gbnesMNF4ZvCMA35L?usp=sharing)) files here -**
 https://drive.google.com/drive/folders/104p5cvODPeaKB57gbnesMNF4ZvCMA35L?usp=sharing
 
 
@@ -41,7 +41,7 @@ VIFE is an ESP32 based device with an MPU6050 accelerometer & gyroscope sensor t
 3. For viweing notes/ pdfs you have to install pdf render 
 4. You most have renderer available.
 
-[VISMAL](https://drive.google.com/drive/folders/104p5cvODPeaKB57gbnesMNF4ZvCMA35L?usp=sharing)
+[VISML](https://drive.google.com/drive/folders/104p5cvODPeaKB57gbnesMNF4ZvCMA35L?usp=sharing)
 
 
 
